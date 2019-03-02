@@ -1,0 +1,2 @@
+from wichacks import alertSettings
+
